@@ -9,14 +9,14 @@
 	{
 		"id": "2",
 		"nombre": "La pizza de di gilma",
-		"imagen": "./img/Pizza fugazzeta.jpg",
+		"imagen": "./img/Pizza-fugazzeta.jpg",
 		"precio": 3800,
 		"descripcion": "(salsa de tomate , cebolla ,muzzarella ,morrones ,perejil y oregano)"
 	},
 	{
 		"id": "3",
-		"nombre": "Real con jamon",
-		"imagen": "./img/pizza con jamon.jpeg",
+		"nombre": "Real_con_jamon",
+		"imagen": "./img/pizza-con-jamon.jpeg",
 		"precio": 3600,
 		"descripcion": "(Salsa de tomate ,jamon ,muzzarella y morrones)"
 	},
@@ -37,14 +37,14 @@
 	{
 		"id": "6",
 		"nombre": "Jamon",
-		"imagen": "./img/pizza con jamon.jpeg",
+		"imagen": "./img/pizza-con-jamon.jpeg",
 		"precio": 3400,
 		"descripcion": "(salsa de tomate , muzzarella y jamon"
 	},
 	{
 		"id": "7",
 		"nombre": "Panceta",
-		"imagen": "./img/Pizza panceta.jpg",
+		"imagen": "./img/Pizza-panceta.jpg",
 		"precio": 3800,
 		"descripcion": "(salsa de tomate ,muzzarella ,panceta y cebolla de verdeo)"
 	},
